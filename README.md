@@ -1,8 +1,6 @@
-<div style="display: flex; justify-content: center">
-    <img src="https://cdn-628267e2c1ac18bb0c1a669b.closte.com/wp-content/uploads/2024/10/Outlook-Logo-comp.png" style="width: 20%">
-</div>
-
----
+<p align="center">
+  <img src="https://cdn-628267e2c1ac18bb0c1a669b.closte.com/wp-content/uploads/2024/10/Outlook-Logo-comp.png" width="120px" alt="Logo da Escola da Nuvem">
+</p>
 
 # ☁️ Atividades em Python - Escola da Nuvem
 
@@ -37,6 +35,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-<div style="display: flex; justify-content: center">
+<p align="center">
     Feito com ❤️ por Karol Wojtyla
-</div>
+</p>

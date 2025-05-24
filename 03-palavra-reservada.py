@@ -1,0 +1,3 @@
+area = "Tecnologia"
+
+print(area)

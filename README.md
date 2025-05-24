@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://cdn-628267e2c1ac18bb0c1a669b.closte.com/wp-content/uploads/2024/10/Outlook-Logo-comp.png" width="120px" alt="Logo da Escola da Nuvem">
+    <a href="https://escoladanuvem.org">
+        <img src="https://cdn-628267e2c1ac18bb0c1a669b.closte.com/wp-content/uploads/2024/10/Outlook-Logo-comp.png" width="120px" alt="Logo da Escola da Nuvem">
+    </a>
 </p>
 
 # ☁️ Atividades em Python - Escola da Nuvem
